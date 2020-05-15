@@ -1,4 +1,5 @@
-# Vendas com PagSeguro API
+# :smile: Vendas com PagSeguro API
+--
 
 ## Linguaguem utilizada neste projeto
 
