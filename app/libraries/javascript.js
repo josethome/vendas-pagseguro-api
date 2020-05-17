@@ -8,7 +8,7 @@ $('#BotaoPagamento').on('click',function(event){
         type: 'POST',
         dataType: 'html',
         success: function (data) {
-          $('body').html(data);
+            PagSeguroLightbox(data);
         }
     });
 });
